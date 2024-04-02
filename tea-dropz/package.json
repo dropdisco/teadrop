@@ -1,7 +1,7 @@
 {
   "name": "tea-dropz",
-  "version": "1.1.4",
-  "private": true,
+  "version": "1.1.6",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
